@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=2000&pause=800&color=2474F7&center=true&width=435&lines=Welcome++%F0%9F%91%8B;I'm+Mahmoud+Rafeek;Backend+Developer+%E2%9A%A1;Building+Scalable+APIs+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=7000&size=28&duration=2000&pause=800&color=2474F7&center=true&width=900&height=100&lines=Welcome++%F0%9F%91%8B;I'm+Mahmoud+Rafeek;Backend+Developer+%E2%9A%A1;Building+Scalable+APIs+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ---
 
