@@ -28,20 +28,38 @@
 
 ## 📫 Connect with Me
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:mahmoud.rafeek231@gmail.com)](mailto:mahmoud.rafeek231@gmail.com)  
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoud-rafeek-563b0226a/)](https://www.linkedin.com/in/mahmoud-rafeek-563b0226a/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:mahmoud.rafeek231@gmail.com)](mailto:mahmoud.rafeek231@gmail.com)            [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoud-rafeek-563b0226a/)](https://www.linkedin.com/in/mahmoud-rafeek-563b0226a/)
 
 ---
 
 ## 🛠️ Languages and Tools
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)  
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)  
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" height="50"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ts" height="50"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=express" height="50"/>
+  </a>
+  <a href="https://nestjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nestjs" height="50"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postgresql" height="50"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" height="50"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" height="50"/>
+  </a>
+</p>
